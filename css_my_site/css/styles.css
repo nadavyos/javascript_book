@@ -1,40 +1,45 @@
-
-body{
-margin: 0;
-text-align: center;
+body {
+  margin: 0;
+  text-align: center;
 }
-h1{
+
+h1 {
+color: #4FBDBA;
   margin: 50px auto 0 auto;
-font-family: 'Sacramento', cursive;
-font-size: 5.625rem;
-
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
 }
-h2{
+
+h2 {
+  color: #4FBDBA;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
 }
-h3{
+
+h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
-
 /***********************class*****************************************/
-.top_container{
-  background-color:  #E5E3C9;
+.top_container {
+  background-color: #CAF0F8;
   margin-bottom: 0;
   padding-top: 100px;
 }
-.cloud-bottom{
+
+.cloud-bottom {
   position: absolute;
   top: 200px;
-  left:400px;
+  left: 400px;
 }
-.cloud-top{
+
+.cloud-top {
   position: absolute;
   right: 500px;
   top: 50px;
 }
-.pro{
+
+.pro {
   text-decoration: underline;
   font-size: 3rem;
   font-weight: bold;
