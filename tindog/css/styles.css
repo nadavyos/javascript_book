@@ -1,0 +1,82 @@
+/*****************************************i.d*********************************/
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+#features {
+  margin: auto;
+  padding: 200px 0;
+}
+
+/************************************styes-tag********************************/
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+body {
+  font-family: 'Montserrat';
+}
+
+h3 {
+  padding: 20px;
+  font-size: 1.5rem;
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+/*****************************************class*************************/
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* navigation-bar */
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat"
+}
+
+/* Download-button */
+.Download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* titel-img */
+.titel-img {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* col-4 */
+.col-lg-4 {
+  text-align: center;
+  padding: 0 100px;
+}
+
+/* i-class-features */
+.i-class-features {
+  color: #ef8172;
+  font-size: 3.5rem;
+  padding: 20px;
+}
+
+.i-class-features:hover {
+  color: #ff4c68;
+}
