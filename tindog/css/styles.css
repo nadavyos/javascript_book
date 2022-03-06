@@ -5,14 +5,33 @@
 }
 
 #features {
-  margin: auto;
-  padding: 200px 0;
+  padding: 7% 15%;
 }
 
+/* testimonials-section */
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
 /************************************styes-tag********************************/
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
   line-height: 1.5;
   font-weight: 900;
 }
@@ -22,7 +41,6 @@ body {
 }
 
 h3 {
-  padding: 20px;
   font-size: 1.5rem;
   font-family: 'Montserrat';
   font-weight: bold;
@@ -65,9 +83,9 @@ h3 {
 }
 
 /* col-4 */
-.col-lg-4 {
+.features-box {
   text-align: center;
-  padding: 0 100px;
+  padding: 5%;
 }
 
 /* i-class-features */
@@ -79,4 +97,17 @@ h3 {
 
 .i-class-features:hover {
   color: #ff4c68;
+}
+
+/* testimonials-imag */
+.testimonials-imag {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* press */
+.press-logo{
+width: 15%;
+margin: 20px 20px 50px;
 }
